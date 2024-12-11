@@ -42,7 +42,7 @@ git clone https://github.com/yourusername/speed-test.git
 
 2. Move to your web server directory:
 ```bash
-mv speed-test /var/www/html/
+mv speed-test/src /var/www/html/
 ```
 
 3. Configure your web server to point to the directory.
